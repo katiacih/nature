@@ -17,7 +17,7 @@ Projeto demonstrativo apenas para pratica de front end
 
 ###  Demonstração 💻
 
-![gif](https://github.com/katiacih/nature/tree/main/res/nature.gif)
+![gif](https://github.com/katiacih/nature/blob/main/res/nature.gif)
 
 
 #  Autor 👩🏻‍💻
